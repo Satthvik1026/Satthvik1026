@@ -9,12 +9,13 @@ Welcome to my GitHub profile! I'm a **Blockchain & Full-Stack Developer** passio
 Here are some of the most notable projects I’ve worked on:  
 
 ### **1. [Blockchain Decentralized Drug Tracing System](https://github.com/Satthvik1026/Blockchain-Decentralized-Drug-Tracing-System)**  
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%2C%20Node.js%2C%20Solidity%2C%20Hardhat-%2361DAFB?style=for-the-badge&logo=ethereum&logoColor=white)](https://reactjs.org/)  
 A **blockchain-powered drug tracing system** that ensures **transparency, security, and immutability** in the pharmaceutical supply chain.  
 
-### **2. [Java Weather App](https://github.com/Satthvik1026/Java-Weather-App)**  
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Java%2C%20Swing%2C%20API-%231DA1F2?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+### **2. [Java Weather App](https://github.com/Satthvik1026/Java-Weather-App)**
 A **desktop weather application** built using **Java Swing and APIs** to provide real-time weather updates.  
+
+### **3. [AI Article Website Summarizer](https://github.com/Satthvik1026/AI_Summarizer)**
+An **article summarizer web application** built using **React.js** and **APIs** to extract summaries from long articles on the website.
 
 ---
 
@@ -45,7 +46,11 @@ A **desktop weather application** built using **Java Swing and APIs** to provide
   <a href="https://twitter.com/@Sathvik1026" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/profile/satthvik1026" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
+
 
 
 ---
@@ -56,10 +61,4 @@ A **desktop weather application** built using **Java Swing and APIs** to provide
 ---
 
 ## 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sathvik_leetcode)  
-
----
-
-## HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/satthvik1026)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sathvik_leetcode) 
