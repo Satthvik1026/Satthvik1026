@@ -61,9 +61,5 @@ A **desktop weather application** built using **Java Swing and APIs** to provide
 ---
 
 ## HackerRank
-- **HackerRank:** [HackerRank Profile]([https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/satthvik1026))  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/satthvik1026)
 
----
-
-## 📊 GitHub Stats:  
-![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
