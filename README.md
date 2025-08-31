@@ -9,20 +9,20 @@ Welcome to my GitHub profile! I'm a **Blockchain & Full-Stack Developer** passio
 Here are some of the most notable projects I’ve worked on:  
 
 ### **1. [Blockchain Decentralized Drug Tracing System](https://github.com/Satthvik1026/Blockchain-Decentralized-Drug-Tracing-System)**  
-A **blockchain-powered drug tracing system** that ensures **transparency, security, and immutability** in the pharmaceutical supply chain.  
+A **Blockchain-powered drug tracing system** that ensures **transparency, security, and immutability** in the pharmaceutical supply chain.  
 
-### **2. [Java Weather App](https://github.com/Satthvik1026/Java-Weather-App)**
-A **desktop weather application** built using **Java Swing and APIs** to provide real-time weather updates.  
+### **2. [Doctor Appointment Booking System](https://github.com/Satthvik1026/Doclynk-Doctor-Appointment-Booking-System)**
+A **Doctor appointment booking system** built with the **MERN stack** and featuring separate interfaces for patients, admin and doctors to manage schedules and appointments efficiently.
 
 ### **3. [AI Article Website Summarizer](https://github.com/Satthvik1026/AI_Summarizer)**
-An **article summarizer web application** built using **React.js** and **APIs** to extract summaries from long articles on the website.
+An **Article summarizer web application** built using **React.js** and **APIs** to extract summaries from long articles on the website.
 
 ---
 
 ## 🛠️ Technologies & Tools  
 
 ### **Technical Skills**  
-- **Languages:** Java, JavaScript, Solidity, Python, SQL, DSA  
+- **Languages:** Java, JavaScript,C, Solidity, Python, SQL, DSA  
 - **Frameworks:** React, Node.js, Express, Mongoose, Hardhat  
 - **Blockchain:** Ethereum, Web3.js, Smart Contracts, Hardhat  
 
@@ -30,7 +30,7 @@ An **article summarizer web application** built using **React.js** and **APIs** 
 
 ## 👯 I’m looking to collaborate on:  
 - **Web3 & Blockchain Projects**  
-- **Full-Stack DApps**  
+- **Full-Stack Projects**  
 - **Java & System Design Challenges**  
 
 ---
@@ -52,11 +52,6 @@ An **article summarizer web application** built using **React.js** and **APIs** 
 </p>
 
 
-
----
-
-## ⚡ Fun fact:  
-- **I completed the CryptoZombies course** and built my first blockchain game using Solidity & Web3.js.  
 
 ---
 
